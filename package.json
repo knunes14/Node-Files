@@ -1,0 +1,19 @@
+{
+  "name": "files",
+  "version": "1.0.0",
+  "description": "\"Node files exercise\"",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knunes14/Node-Files.git"
+  },
+  "author": "\"Keegan Nunes\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knunes14/Node-Files/issues"
+  },
+  "homepage": "https://github.com/knunes14/Node-Files#readme"
+}
