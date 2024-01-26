@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/knunes14/Node-Files/issues"
   },
-  "homepage": "https://github.com/knunes14/Node-Files#readme"
+  "homepage": "https://github.com/knunes14/Node-Files#readme",
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
 }
